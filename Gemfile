@@ -13,6 +13,15 @@ gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.0.0'
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 # gem 'therubyracer',  platforms: :ruby
+gem 'haml', '~> 4.0.5'
+#simple forms
+gem 'simple_form', '~> 3.0.2'
+#paperclip for uploading images
+gem 'paperclip', '~> 4.3.1'
+#bootstrap for styles
+gem 'bootstrap-sass', '~> 3.3.5'
+#Use cocoon for nesting forms
+gem 'cocoon', '~> 1.2.6'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
